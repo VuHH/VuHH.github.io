@@ -1,0 +1,21 @@
+
+.dream {
+    font-weight: bold;
+}
+
+
+
+.main {
+    height: 1000px;
+    border: 1px solid black;
+}
+
+.button-submit {
+    float: left;
+    padding: 0 5%;
+    margin-left: 10%;
+}
+
+.button-reset {
+    float: left;
+}
