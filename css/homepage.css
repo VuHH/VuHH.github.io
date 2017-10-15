@@ -875,7 +875,6 @@ label {
     display: inline-block;
     height: 20px;
     width: 20px;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-position: -60px -90px;
     text-indent: 5000px;
     white-space: nowrap;
@@ -901,7 +900,6 @@ div.error input {
     height: 20px;
     line-height: 0;
     content: "collapse";
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-position: -60px -60px;
     text-indent: 5000px;
     white-space: nowrap;
@@ -1057,7 +1055,6 @@ div.error input {
     height: 20px;
     width: 20px;
     margin-left: 10px;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-position: -120px -30px;
     vertical-align: top;
     opacity: 0.8;
@@ -1166,7 +1163,6 @@ div.error input {
     height: 34px;
     padding: 0 5px;
     line-height: 0;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     text-indent: 5000px;
     white-space: nowrap;
     overflow: hidden;
@@ -1239,7 +1235,6 @@ div.error input {
     width: 26px;
     height: 26px;
     line-height: 0;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     text-indent: 5000px;
     white-space: nowrap;
     overflow: hidden;
@@ -1745,7 +1740,6 @@ div.error input {
     content: " ";
     margin-left: 6px;
     vertical-align: baseline;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-repeat: no-repeat;
     background-position: -150px -180px;
 }
@@ -2020,7 +2014,6 @@ span.label-inline {
     border: solid 1px transparent;
     padding: 0;
     background-color: transparent;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-repeat: no-repeat;
     background-position: -60px -90px;
     text-indent: 5000px;
@@ -2451,7 +2444,6 @@ ul.meganav {
     height: 26px;
     line-height: 0;
     margin: 0;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-position: -30px -30px;
     text-indent: 5000px;
     white-space: nowrap;
@@ -2594,7 +2586,6 @@ ul.meganav {
     width: 35px;
     content: " ";
     margin-left: 10px;
-    background-image: url(/sites/thehealthybackbag.co.uk/themes/hbb_bootstrap3/images/icon-sprite.png);
     background-position: -120px -60px;
     text-indent: 5000px;
     white-space: nowrap;
